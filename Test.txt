@@ -1,2 +1,5 @@
 Name: Maheer Ahmed
-CLass: COP3370
+Class: COP3370
+
+Name: Genesis Barrios
+Class: CDA4104
